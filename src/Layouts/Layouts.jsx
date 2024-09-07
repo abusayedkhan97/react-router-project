@@ -26,7 +26,7 @@ const Layouts = () => {
                 <Link to="/blog">Blog</Link>
               </li>
               <li>
-                <Link to="/user">User</Link>
+                <Link to="/user">Teams</Link>
               </li>
             </ul>
           </div>
